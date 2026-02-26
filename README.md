@@ -56,6 +56,3 @@ This course strengthened my understanding of rendering, transformations, lightin
 How does computational graphics support your professional pathway?
 
 This project developed skills relevant to real world development such as debugging complex systems, working with rendering pipelines, and designing interactive visual environments. These skills are applicable in software development, simulation, game development, and visualization.
-Example:
-
-https://github.com/your-username/CS-330-Portfolio
